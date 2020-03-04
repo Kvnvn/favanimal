@@ -1,0 +1,49 @@
+bodystyle{background-color: orange;} 
+body {
+    color: #222222;
+    font-size: 1em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.content-footer,
+.masthead-heading,
+.masthead-intro {
+  text-align: center;
+}
+
+.tiger{
+  padding: 10em 0;
+  background-image: url(https://www.chromethemer.com/download/hd-wallpapers/walking-tiger-3840x2160.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.mast-heading{
+    margin-top: -0.2em;
+    font-weight: bold;
+    font-size: 6em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    color:black
+}
+
+.details {
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -2em;
+}
+
+.details > p {
+    font-weight: 300;
+    letter-spacing: 0.05em;
+}
+
+.details > h2 {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 2em 0 1em 0;
+}
+
+section > h1 {
+    margin-top: 2em;
